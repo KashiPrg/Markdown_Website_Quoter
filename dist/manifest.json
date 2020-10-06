@@ -1,0 +1,28 @@
+{
+    "name": "__MSG_extName__",
+    "description": "__MSG_extDescription__",
+    "default_locale": "en",
+    "version": "0.1.0",
+    "manifest_version": 2,
+    "icons": {
+        "32": "image/icon_32.png",
+        "64": "image/icon_64.png",
+        "128": "image/icon_128.png"
+    },
+    "background": {
+        "scripts": ["js/bundle.js"]
+    },
+    "browser_action": {
+        "default_icon": "image/icon_32.png"
+    },
+    "commands": {
+        "make_MarkdownLink": {
+            "description": "__MSG_shortcutMakeMarkdownLink__",
+            "global": false,
+            "suggested_key": {
+                "default": "Alt+C"
+            }
+        }
+    },
+    "permissions": ["contextMenus", "activeTab", "clipboardWrite", "tabs"]
+}

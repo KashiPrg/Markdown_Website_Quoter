@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Markdown Website Quoter"
+    },
+    "extDescription": {
+        "message": "右クリックメニューにそのWebページへのMarkdownリンクを作成する機能を追加します。"
+    },
+    "conMenuMakeMarkdownLink": {
+        "message": "このページへのMarkdown用リンクをコピー"
+    },
+    "shortcutMakeMarkdownLink": {
+        "message": "そのページへのMarkdown用リンクをコピー"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Markdown Website Quoter"
+    },
+    "extDescription": {
+        "message": "Add a ability to create a Markdown link to the web page in the contextual menu."
+    },
+    "conMenuMakeMarkdownLink": {
+        "message": "Copy the Markdown link to this page"
+    },
+    "shortcutMakeMarkdownLink": {
+        "message": "Copy the Markdown link to the active page"
+    }
+}
